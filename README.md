@@ -14,9 +14,11 @@ DSID_direct_iteration.m -> Matlab implementation of DSID model at Gauss Point, d
 
 Kachanov.m -> Calculate the damage effective modulus with crack inside a plate
 
+
 UMAT
 
 UMAT_DSID_CP_3D.for/UMAT_DSID_CP_plain_strain.for -> Abaqus UMAT implementation of DSID model using cutting plane algorithm for 3 dimentiona/plane strain cases
+
 
 Abaqus Input
 
